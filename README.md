@@ -1,4 +1,5 @@
 # portfolio-pwa
+[![Travis](https://img.shields.io/travis/klarkc/portfolio-pwa/master.svg)](https://travis-ci.org/klarkc/portfolio-pwa/branches)
 
 > A porfolio progressive web app
 
