@@ -2,7 +2,7 @@ import Vue from 'vue'
 import PortBio from '@/components/PortBio'
 import {getBio} from '@/services/portfolio'
 
-describe('Bio.vue', () => {
+describe('PortBio.vue', () => {
   let Constructor, vm
 
   beforeEach(() => {
